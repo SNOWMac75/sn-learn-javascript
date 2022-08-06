@@ -16,6 +16,7 @@ switch (level) {
 
   case 3: // Warning - what's wrong with case 3?
     message = 'Medium';
+    break;
   case 4:
     message = 'High';
     break;
